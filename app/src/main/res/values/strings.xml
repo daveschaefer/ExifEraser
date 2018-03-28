@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">ExifEraser</string>
+    <string name="description">Please select a .jpg file…</string>
+    <string name="picture_saved">Successfully saved picture</string>
+    <string name="picture_save_failed">Failed to save file</string>
+    <string name="exif_strip_failed">Failed to strip Exif</string>
+    <string name="exif_already_stripped">Exif already stripped or not contained</string>
+    <string name="quality">Quality</string>
+    <string name="select_quality">Adjust JPEG Quality</string>
+    <string name="invert_theme">Invert Theme</string>
+    <string name="no_suitable_activity">No suitable activity found to handle action</string>
+    <string name="stripped">stripped</string>
+</resources>
